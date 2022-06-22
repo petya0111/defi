@@ -1,0 +1,15 @@
+{
+    "name": "My name NFT",
+    "description": "nft description",
+    "image": "ipfs://QmbXzxtvdKV7oQLyjhvt7JkX6ggJX7Fx7KzUXuELWijEVh",
+    "attributes": [
+        {
+            "trait_type": "rims",
+            "trait_value": 18
+        },
+        {
+            "trait_type": "color",
+            "trait_value": "black"
+        }
+    ]
+}
